@@ -1,4 +1,4 @@
-ayı Tahmin Oyunu
+Sayı Tahmin Oyunu
 
 Bu proje, Python kullanılarak geliştirilmiş basit bir sayı tahmin oyunudur. Bilgisayar 1 ile 100 arasında rastgele bir sayı üretir ve oyuncu belirlediği hak sayısı içinde bu sayıyı tahmin etmeye çalışır.
 
